@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabey.
- *
+ * main - Entry point
+ * Description: Prints alphabets lowercase
  * Return: Always 0 (Success)
  */
 int main(void)
